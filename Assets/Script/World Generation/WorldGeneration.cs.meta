@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e679f3cde5eae2943be924051fa32829
+timeCreated: 1516208671
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - MainMenu: {instanceID: 0}
+  - Quads: {instanceID: 0}
+  - PrefabGrass: {fileID: 4859417654729510, guid: cf54a554c9bc07c4c83c4693c37baac0,
+      type: 2}
+  - PrefabDirt: {fileID: 4214668838218124, guid: bf211cdbf3ee1fb4ab8ad283e4929254,
+      type: 2}
+  - PrefabSand: {fileID: 4859417654729510, guid: cf54a554c9bc07c4c83c4693c37baac0,
+      type: 2}
+  - PrefabStone: {fileID: 4345120722841532, guid: 8b15a0645d46568428f31a5f50c41db0,
+      type: 2}
+  - MaterialGrass: {fileID: 2100000, guid: 2f133e60132bc23418f6a8024ff5dd78, type: 2}
+  - MaterialDirt: {fileID: 2100000, guid: 5a8d664f7df23c54390e8f296c322e98, type: 2}
+  - MaterialSand: {fileID: 2100000, guid: c7cdc8e66013f2541b50dfc432f1c67b, type: 2}
+  - MaterialStone: {fileID: 2100000, guid: da62e84a8ccecc248a74dd3348137f43, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
